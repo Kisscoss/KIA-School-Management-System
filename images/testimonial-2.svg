@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="100" fill="#e8ecff" />
+  
+  <!-- Person Silhouette -->
+  <circle cx="100" cy="80" r="40" fill="#6c63ff" />
+  <path d="M100,120 C65,120 40,150 40,190 L160,190 C160,150 135,120 100,120 Z" fill="#6c63ff" />
+  
+  <!-- Facial Features (simplified) -->
+  <circle cx="85" cy="75" r="5" fill="white" />
+  <circle cx="115" cy="75" r="5" fill="white" />
+  <path d="M85,95 Q100,105 115,95" fill="none" stroke="white" stroke-width="3" />
+  
+  <!-- Glasses -->
+  <circle cx="85" cy="75" r="10" fill="none" stroke="white" stroke-width="2" />
+  <circle cx="115" cy="75" r="10" fill="none" stroke="white" stroke-width="2" />
+  <line x1="95" y1="75" x2="105" y2="75" stroke="white" stroke-width="2" />
+</svg>
